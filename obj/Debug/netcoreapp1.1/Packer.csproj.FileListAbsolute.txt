@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/bin/Debug/netcoreapp1.1/Packer.deps.json
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/bin/Debug/netcoreapp1.1/Packer.runtimeconfig.json
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/bin/Debug/netcoreapp1.1/Packer.runtimeconfig.dev.json
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/obj/Debug/netcoreapp1.1/Packer.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/obj/Debug/netcoreapp1.1/Packer.AssemblyInfo.cs
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/bin/Debug/netcoreapp1.1/Packer.dll
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/bin/Debug/netcoreapp1.1/Packer.pdb
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/obj/Debug/netcoreapp1.1/Packer.dll
+/Users/Guest/Desktop/Packertracker.Solution/Packertracker/obj/Debug/netcoreapp1.1/Packer.pdb

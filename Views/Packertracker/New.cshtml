@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Hello friend!</title>
+  </head>
+  <body>
+    <h1>My packertracker list</h1>
+
+    <form action="/packertracker" method="post">
+      <label for="name">Add a name:</label>
+      <input id="name" name="name" type="text" required>
+      <br>
+      <label for="manufacture">Enter manufatrue:</label>
+      <input id="manufacture" name="manufacture" type="text" required>
+      <br>
+      <label for="price">Price:</label>
+      <input id="price" name="price" type="number" min="0" max="9999" required>
+      <br>
+      <label for="weight">Weight:</label>
+      <input id="weight" name="weight" type="number" min="0" max="9999" required>
+      <br>
+      <label for="ispurchased">Has it been purchased?:</label>
+      <input type="radio" name="ispurchased" value="true">Yes<br>
+      <input type="radio" name="ispurchased" value="false">No<br>
+      <br>
+      <label for="ispacked">Has it been packed?:</label>
+      <input type="radio" name="ispacked" value="true">Yes<br>
+      <input type="radio" name="ispacked" value="false">No<br>
+      <br>
+      <button type="submit">Submit</button>
+    </form>
+
+  </body>
+</html>
